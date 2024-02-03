@@ -4,8 +4,8 @@ import itertools
 import os 
 import re
 
-filename = '_chat_michi.txt'
-savefile = 'words_michi.txt'
+filename = '_chat.txt'
+savefile = 'words.txt'
 rm_words = ['omitted', 'image', 'audio', 'video', 'sticker', 'gif', 'http']
 
 # read in line by line
